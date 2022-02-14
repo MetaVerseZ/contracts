@@ -34,6 +34,19 @@ Solidity code for every smart contract we used
       </tr>
 </table>
 
+### Timelock
+
+<table>
+      <tr>
+        <td>Address</td>
+        <td>0x202ae374d301af22a78df38d1cad3587ac7a6bcf</td>
+      </tr>
+      <tr>
+        <td>Contract on BscScan</td>
+        <td><a href="https://bscscan.com/address/0x202ae374d301af22a78df38d1cad3587ac7a6bcf">here</a></td>
+      </tr>
+</table>
+
 ### Presale
 
 <table>
