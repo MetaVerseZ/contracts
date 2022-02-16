@@ -59,3 +59,6 @@ Solidity code for every smart contract we used
         <td><a href="https://bscscan.com/address/0x159e34c2aA21b0933548b8CD1a2A8De7243B7C31">here</a></td>
       </tr>
 </table>
+
+# Audits
+- [February 2022](https://github.com/sokenteam/smart_contract_audits/blob/main/Meta%20Z%20Token%20Standard%20Smart%20Contract%20Audit.pdf)
