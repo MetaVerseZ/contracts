@@ -4,7 +4,7 @@ Solidity code for every smart contract we used
 
 # Contracts
 
-### Airdrop
+### Airdrop #1
 
 <table>
 	<tr>
@@ -14,6 +14,19 @@ Solidity code for every smart contract we used
 	<tr>
 		<td>Contract on BscScan</td>
 		<td><a href="https://bscscan.com/address/0x7124374d9e7b41832a8e2b0cd14a82bdccfb72de">here</a></td>
+	</tr>
+</table>
+
+### Airdrop #2
+
+<table>
+	<tr>
+		<td>Address</td>
+		<td>0x73be502d1d2922bCC630ef5258c1a13dC0163AC6</td>
+	</tr>
+	<tr>
+		<td>Contract on BscScan</td>
+		<td><a href="https://bscscan.com/address/0x73be502d1d2922bCC630ef5258c1a13dC0163AC6">here</a></td>
 	</tr>
 </table>
 
