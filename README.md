@@ -30,7 +30,7 @@ Solidity code for every smart contract we used
 	</tr>
 </table>
 
-### Token
+### Meta Z Token
 
 <table>
 	<tr>
@@ -44,6 +44,23 @@ Solidity code for every smart contract we used
 	<tr>
 		<td>Token on BscScan</td>
 		<td><a href="https://bscscan.com/token/0x5EF6b5ABaA7e9b75Fa4DaEBF0Fc722f9AFF12B40">here</a></td>
+	</tr>
+</table>
+
+### Play Meta Z Token
+
+<table>
+	<tr>
+		<td>Address</td>
+		<td>0x7287584b7777C89E8b3f23a4766DA9f8f1c7Ec4e</td>
+	</tr>
+	<tr>
+		<td>Contract on BscScan</td>
+		<td><a href="https://bscscan.com/address/0x7287584b7777C89E8b3f23a4766DA9f8f1c7Ec4e">here</a></td>
+	</tr>
+	<tr>
+		<td>Token on BscScan</td>
+		<td><a href="https://bscscan.com/token/0x7287584b7777C89E8b3f23a4766DA9f8f1c7Ec4e">here</a></td>
 	</tr>
 </table>
 
