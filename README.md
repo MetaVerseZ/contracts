@@ -52,15 +52,15 @@ Solidity code for every smart contract we used
 <table>
 	<tr>
 		<td>Address</td>
-		<td>0x7287584b7777C89E8b3f23a4766DA9f8f1c7Ec4e</td>
+		<td>0x4D4093b3Ffa008016c26801b216F114557278FC5</td>
 	</tr>
 	<tr>
 		<td>Contract on BscScan</td>
-		<td><a href="https://bscscan.com/address/0x7287584b7777C89E8b3f23a4766DA9f8f1c7Ec4e">here</a></td>
+		<td><a href="https://bscscan.com/address/0x4D4093b3Ffa008016c26801b216F114557278FC5">here</a></td>
 	</tr>
 	<tr>
 		<td>Token on BscScan</td>
-		<td><a href="https://bscscan.com/token/0x7287584b7777C89E8b3f23a4766DA9f8f1c7Ec4e">here</a></td>
+		<td><a href="https://bscscan.com/token/0x4D4093b3Ffa008016c26801b216F114557278FC5">here</a></td>
 	</tr>
 </table>
 
